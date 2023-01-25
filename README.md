@@ -1,1 +1,1 @@
-# RhydhamPatelJNV.wordle.io
+# WORDLE
